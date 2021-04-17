@@ -1,6 +1,5 @@
 import React from 'react';
 import './navbar.css'
-import Logo from '../../assets/images/stackline_logo.svg';
 
 const navbar = () => 
 <nav className="uk-navbar-container" uk-navbar="">
