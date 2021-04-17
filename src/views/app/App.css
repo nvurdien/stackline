@@ -1,0 +1,12 @@
+.uk-badge {
+    background: white;
+    color: #526176;
+    border: 1px solid #eaedf3;
+    border-radius: 4px;
+    padding-left:15px;
+    padding-right:15px;
+}
+
+hr {
+    border-color: #f3f6f9;
+}
